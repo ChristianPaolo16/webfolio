@@ -16,7 +16,7 @@ export default function NavBar () {
                 alt="Avanz"
                 />
             </Navbar.Brand>
-            <div className="flex md:order-2 xl:mr-48 hidden md:block">
+            <div className="flex md:order-2 xl:mr-48 hidden lg:block">
                 <a href={resume} download="Resume">
                     <Button>
                         RESUME
